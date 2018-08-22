@@ -5,7 +5,7 @@
 ```text
 https://raw.githubusercontent.com/wxlzmt/bigfiles/master/jdk1.8-api.zip
 https://raw.githubusercontent.com/wxlzmt/bigfiles/master/[MV]AOA_BingBing-(youtube).mp4
-https://raw.githubusercontent.com/wxlzmt/bigfiles/master/jdk-8u172-linux-x64.tar.gz
+https://media.githubusercontent.com/media/wxlzmt/bigfiles/master/jdk-8u172-linux-x64.tar.gz
 ```
 
 ---
@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/wxlzmt/bigfiles/master/jdk-8u172-linux-x64.tar
 ## 示例代码段
 
 ```shell
-wget -P /usr/java https://raw.githubusercontent.com/wxlzmt/bigfiles/master/jdk-8u172-linux-x64.tar.gz
+wget -P /usr/java https://media.githubusercontent.com/media/wxlzmt/bigfiles/master/jdk-8u172-linux-x64.tar.gz
 tar -zxvf jdk-8u172-linux-x64.tar.gz
 ```
 
